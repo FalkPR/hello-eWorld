@@ -1,7 +1,7 @@
 # hello-eWorld
 Welcome aboard process to practice github
 
-# What I Learned {SAMPLE}
+# What I Learned
 
-* Design a UI using auto layout and storyboard
-* Practice using constraints, UIPickerView, UIScrollView, etc.
+# Commits process
+now testing commit change edits
